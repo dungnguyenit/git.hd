@@ -1,0 +1,33 @@
+#sum{width: 100%;
+    height:100%;
+    text-align: center;
+    background: #ff0;
+}
+.top{ width: 100%; 
+    height: 10%; 
+    background-color: aqua;
+}
+.nav{
+    background: #ff0;
+    overflow: hidden;
+   }
+.nav a{   
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgb(151, 46, 46);
+    padding: 4px 11.471%;
+            
+        }
+.nav a:hover{background-color: blueviolet;}
+.center{width: 100%;
+        height: 50%;
+        background-color: blue;
+    }
+    .botton{
+            width: 100%;
+            height: 40%;
+            background-color: rgb(56, 189, 78);
+          
+    }
